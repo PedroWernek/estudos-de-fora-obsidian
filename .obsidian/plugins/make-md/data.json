@@ -38,7 +38,10 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//Tags",
+    "//copilot-custom-prompts",
+    "//SQL"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
