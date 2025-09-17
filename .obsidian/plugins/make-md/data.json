@@ -43,7 +43,8 @@
     "//copilot-custom-prompts",
     "//SQL",
     "//SQL/SQL/Imagens",
-    "//PowerBI"
+    "//PowerBI",
+    "//Excalidraw"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

@@ -14,5 +14,5 @@ Sendo assim o [[ETL]] é mais ágil reduzindo o trabalho pois a extração é mu
   
 **Quando usar cada um?**
 tipos de dados
-ELT -big data
-ETL - sistemas simples
+ELT -big data - quando armazenamento não é problema
+ETL - sistemas simples tem foco na transformação dos dados
