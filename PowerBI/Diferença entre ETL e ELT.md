@@ -1,3 +1,6 @@
+---
+sticker: lucide//database
+---
 Mesmo os dois resolvendo o mesmo problema existe uma abordagem de transformação de dados e Mudança da perspectiva sobre os dados
 A estrutura influencia na análise dos dados
 

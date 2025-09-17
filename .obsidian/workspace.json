@@ -93,10 +93,12 @@
             "id": "fc3f897b800ecbf7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "mk-space",
+              "state": {
+                "path": "SQL/Imagens"
+              },
+              "icon": "lucide-file",
+              "title": "Imagens"
             }
           }
         ],
@@ -290,8 +292,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fc3f897b800ecbf7",
+  "active": "49eb86e1b45afd72",
   "lastOpenFiles": [
+    "SQL/Imagens/Imagens.md",
+    "PowerBI/Imagens/Imagens.md",
     "Excalidraw/Drawing 2025-09-17 11.56.12.excalidraw.md",
     "PowerBI/Diferença entre ETL e ELT.md",
     "PowerBI/Data Warehouses.md",
@@ -321,7 +325,6 @@
     "estudos-de-fora-obsidian",
     "SQL/Banco de Dados Relacional.md",
     "[[Banco.md",
-    "Não Relacional.md",
     "Pasted image 20250917112028.png",
     "SQL/Imagens/Banco-de-dados-nao-relacional.png",
     "SQL/Imagens/Banco-de-dados-relacional.png",
