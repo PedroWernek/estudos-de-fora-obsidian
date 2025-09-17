@@ -81,16 +81,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Banco de Dados.md",
+                "file": "PowerBI/Warehouse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Banco de Dados"
+              "title": "Warehouse"
+            }
+          },
+          {
+            "id": "fc3f897b800ecbf7",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "/"
+              },
+              "icon": "lucide-file",
+              "title": "Estudos de Fora"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -174,7 +186,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Banco de Dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +195,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Banco de Dados"
+              "title": "Backlinks"
             }
           },
           {
@@ -193,12 +204,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Banco de Dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Banco de Dados"
+              "title": "Outgoing links"
             }
           },
           {
@@ -222,13 +232,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Banco de Dados.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Banco de Dados"
+              "title": "Outline"
             }
           },
           {
@@ -239,6 +248,26 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "bd3b9991769c97d3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "7a5486762ad0a53e",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
@@ -263,8 +292,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f1a15aafccddb6d",
+  "active": "fc3f897b800ecbf7",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-09-17 11.56.12.excalidraw.md",
+    "Untitled.base",
+    "PowerBI/Warehouse.md",
+    "Excalidraw",
+    "PowerBI/Diferença entre ETL e ELT.md",
+    "PowerBI/ELT.md",
+    "SQL/Banco de Dados.md",
     "SQL/Banco de Dados não Relacional.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
@@ -272,7 +308,6 @@
     "copilot-custom-prompts/Translate to Chinese.md",
     "copilot-custom-prompts/Fix grammar and spelling.md",
     "Tags",
-    "PowerBI/Diferença entre ETL e ELT.md",
     "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts/Generate glossary.md",
     "copilot-custom-prompts/Generate table of contents.md",
@@ -282,12 +317,9 @@
     "copilot-custom-prompts/Explain like I am 5.md",
     "copilot-custom-prompts/Simplify.md",
     "copilot-custom-prompts",
-    "PowerBI/ELT.md",
     "Banco.md",
     "estudos-de-fora-obsidian/README.md",
     "estudos-de-fora-obsidian",
-    "PowerBI/Warehouse.md",
-    "SQL/Banco de Dados.md",
     "SQL/Banco de Dados Relacional.md",
     "[[Banco.md",
     "Não Relacional.md",
@@ -298,7 +330,6 @@
     "SQL/Imagens",
     "SQL",
     "PowerBI/ETL.md",
-    "Diferença.md",
     "PowerBI/Imagens/Pasted image 20250917105948.png",
     "PowerBI/Imagens/Pasted image 20250917110139.png",
     "PowerBI/Imagens/Pasted image 20250917105958.png",

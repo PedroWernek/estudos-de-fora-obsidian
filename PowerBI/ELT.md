@@ -1,3 +1,6 @@
+---
+sticker: lucide//database
+---
 (Extract Load & Transform)
 
 **Extração** (Extract): Dados brutos de fontes heterogêneas

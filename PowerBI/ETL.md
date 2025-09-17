@@ -1,3 +1,6 @@
+---
+sticker: lucide//database
+---
 (Extract Transform & Load)
 
 Extrair informações transformar em algo útil e depois carregar elas.
