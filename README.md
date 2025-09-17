@@ -1,1 +1,0 @@
-# estudos-de-fora-obsidian

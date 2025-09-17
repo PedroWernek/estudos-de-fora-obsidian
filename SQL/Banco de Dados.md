@@ -1,0 +1,2 @@
+É uma coleção organizada de informações estruturadas, armazenada eletronicamente num sistema de computador para facilitar o armazenamento, a gestão e o acesso aos dados.
+Pode ser [[Banco de Dados Relacional|Relacional]] e [[Banco de Dados não Relacional|Não Relacional]]
