@@ -2,3 +2,9 @@ Mesmo os dois resolvendo o mesmo problema existe uma abordagem de transformaçã
 A estrutura influencia na análise dos dados
 
 Sendo assim o [[ETL]] é mais ágil reduzindo o trabalho pois a extração é muito pesada e a transformação é demorado também, então é bem vantagioso ter os dados já carregados antes da transformação.
+
+**Vantagens do ELT**
+- Otimiza tempo;
+- Eficiência na implantação de projetos
+- Menos dependência de TI
+- Papel principal dos analistas
